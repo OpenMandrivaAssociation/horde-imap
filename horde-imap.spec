@@ -5,7 +5,7 @@
 
 Name:		horde-imap
 Version:	0.0.3
-Release:	%mkrel 1
+Release:	%mkrel 2
 Summary:	Horde Browser package
 License:	LGPL
 Group:		Networking/Mail
@@ -18,7 +18,6 @@ Requires:	horde-cache
 Requires:	php-pear-channel-horde
 BuildRequires:	php-pear
 BuildRequires:	php-pear-channel-horde
-BuildRoot:	%{_tmppath}/%{name}-%{version}
 
 %description
 The Horde_UI:: class provides an API for getting information about
