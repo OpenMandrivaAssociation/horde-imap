@@ -63,3 +63,15 @@ fi
 %{peardir}/Horde/IMAP/ACL/rfc4314.php
 
 
+
+
+%changelog
+* Sat Jul 31 2010 Thomas Spuhler <tspuhler@mandriva.org> 0.0.3-2mdv2011.0
++ Revision: 564028
+- Increased release for rebuild
+
+* Mon Feb 22 2010 Thomas Spuhler <tspuhler@mandriva.org> 0.0.3-1mdv2010.1
++ Revision: 509405
+- import horde-imap
+
+
